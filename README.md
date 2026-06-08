@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Harshini</h1>
+<h1 align="center">👋 Hi, I'm Harshini K R</h1>
 
 <p align="center">
   <b>Backend Engineer · Cloud‑Native Systems · ML & AI</b><br>
