@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Harshini</h1>
 
-<!--
-**Harshinikr/Harshinikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Backend Engineer · Cloud‑Native Systems · ML & AI</b><br>
+  🎓 MS Software Engineering @ ASU · 📍 Phoenix, AZ
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- Backend Engineer specializing in **cloud‑native, distributed systems**
+- Designed and shipped **serverless pipelines** serving 50K+ users with **99.9% uptime**
+- Experienced with **AWS Lambda, API Gateway, DynamoDB, SQS, S3, IAM**
+- Passionate about **scalable APIs, event‑driven architecture, and ML automation**
+- Strong believer in **clean code, reliability, and zero‑prod‑break culture**
+- Love building systems that combine **backend engineering + cloud + AI**
+
+---
+
+## ⚙️ What I'm Working On
+- 🚀 Building cloud‑native healthcare claims pipeline (serverless + event‑driven)
+- 🤖 Automating workflows with ML models + AWS Lambda
+- 📊 Improving observability using CloudWatch, X‑Ray, and structured logging
+- 🧠 Exploring LLM‑powered backend tools and AI‑assisted engineering
+
+---
+
+## 🧩 Projects
+### 🔹 **CloudClaim — Serverless Healthcare Claims Pipeline**
+Event‑driven architecture using Lambda, SQS, DynamoDB, API Gateway, Terraform, and GitHub Actions.  
+Processes 100K+ monthly transactions with automated retries, monitoring, and HIPAA‑aligned design.
+
+### 🔹 **ML‑Driven Automation Tools**
+Built ML pipelines for classification, prediction, and workflow automation using Python, AWS, and FastAPI.
+
+---
+
+## 🛠️ Tech Stack & Tools
+**Languages:** Python | JavaScript | TypeScript  
+**Backend:** Node.js | Express | FastAPI  
+**Cloud:** AWS (Lambda, API Gateway, DynamoDB, S3, SQS, IAM, CloudWatch)  
+**Databases:** PostgreSQL | MongoDB | DynamoDB  
+**DevOps:** Docker | GitHub Actions | Terraform  
+**AI/ML:** Scikit‑learn | XGBoost | Pandas | NumPy  
+
+---
+
+## 🌱 Currently Exploring
+- Cloud‑native LLM deployment  
+- Distributed systems patterns  
+- Serverless optimization  
+- AI‑assisted backend engineering  
+
+---
+
+## 📫 Let's Connect
+🔗 Portfolio: *your‑portfolio‑link*  
+🔗 LinkedIn: *your‑linkedin*  
+✉️ Email: *your‑email*  
+
+---
+
+⭐ *“Build systems that scale. Ship with confidence. Own your craft.”*  
