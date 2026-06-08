@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Harshini K.R.</h1>
 
 <p align="center">
-  <b>Backend Engineer · Cloud‑Native Systems · ML & AI</b><br>
+  <b>Software Engineer · Cloud‑Native Systems · ML & AI</b><br>
   🎓 MS Software Engineering @ ASU · 📍 Phoenix, AZ
 </p>
 
