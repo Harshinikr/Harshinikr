@@ -54,9 +54,9 @@ Built ML pipelines for classification, prediction, and workflow automation using
 ---
 
 ## 📫 Let's Connect
-🔗 Portfolio: *your‑portfolio‑link*  
-🔗 LinkedIn: *your‑linkedin*  
-✉️ Email: *your‑email*  
+🔗 Portfolio: https://harshinikr.vercel.app/  
+🔗 LinkedIn: https://www.linkedin.com/in/harshini-k-r-2173191ab/   
+✉️ Email: hkulanda@asu.edu 
 
 ---
 
