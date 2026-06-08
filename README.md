@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Harshini K R</h1>
+<h1 align="center">👋 Hi, I'm Harshini K.R.</h1>
 
 <p align="center">
   <b>Backend Engineer · Cloud‑Native Systems · ML & AI</b><br>
@@ -55,8 +55,8 @@ Built ML pipelines for classification, prediction, and workflow automation using
 
 ## 📫 Let's Connect
 🔗 Portfolio: https://harshinikr.vercel.app/  
-🔗 LinkedIn: https://www.linkedin.com/in/harshini-k-r-2173191ab/   
-✉️ Email: hkulanda@asu.edu 
+🔗 LinkedIn: https://www.linkedin.com/in/harshini-k-r-2173191ab/  
+✉️ Email: hkulanda@asu.edu  
 
 ---
 
