@@ -1,78 +1,93 @@
-<h1 align="center">👋 Hi, I'm Harshini K.R.</h1>
+<div align="center">
 
-<p align="center">
-<b>Software Engineer · Applied AI/ML · Cloud-Native Systems · Forward Deployed Engineering</b><br>
-🎓 MS Software Engineering @ ASU · 📍 Phoenix, AZ
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Harshini+K.R.+%F0%9F%91%8B;Software+%26+ML+Engineer;Explainable+AI+%7C+Cloud-Native+Systems;End-to-End+Delivery+%7C+Production-Ready+ML" alt="Typing SVG" />
 
-👋 Who I Am
-💡 Software Engineer with 3.5+ years delivering production systems for Fortune 500 clients
-🧠 AI/ML Engineer building fraud detection, explainable AI, and hybrid ML+LLM pipelines
-🚀 Forward Deployed Engineer experienced in end‑to‑end delivery, client-facing workflows, and real-world deployment
-☁️ Skilled in cloud-native architectures, serverless design, and reliable automation
-🎓 Graduate Student @ Arizona State University (GPA 3.9)
+<br/>
 
-👩‍💻 About Me
-Engineer focused on building systems that solve real business problems, not just code
+Software Engineer · Applied AI/ML · Cloud-Native · Forward Deployed Engineering
 
-Experienced in HIPAA/SOC‑2 regulated environments with reliability, security, and compliance
+🎓 MS Software Engineering @ ASU (GPA 3.9) &nbsp;·&nbsp; 📍 Phoenix, AZ &nbsp;·&nbsp; ✅ Available Immediately · Open to Relocate
 
-Skilled in ML model development, SHAP explainability, drift monitoring, and AWS deployment
+<br/>
 
-Strong in client-facing engineering, delivering features end-to-end with clear reasoning and usability
+https://harshinikr.vercel.app/&nbsp;
+https://www.linkedin.com/in/harshini-k-r-2173191ab/&nbsp;
+mailto:hkulanda@asu.edu
 
-Passionate about AI-driven automation, cloud-native ML, and production-ready systems
+</div>
 
-Love combining software engineering + ML + cloud to build intelligent, scalable workflows
+🚀 About Me
+Software & ML Engineer with 3.5+ years delivering production systems for Fortune 500 clients — Citibank, Cigna, Anthem — in HIPAA & SOC‑2 regulated environments. I build systems that combine cloud-native architecture, applied ML, explainable AI, and end‑to‑end delivery.
 
-⚙️ What I'm Working On
-🔍 CloudClaim — ML-powered fraud detection pipeline with XGBoost, Isolation Forest, SHAP, and a reviewer-facing UI
+🧠 AI/ML — Fraud detection, SHAP explainability, XGBoost, Isolation Forest, hybrid ML+LLM pipelines
 
-🤖 Hybrid ML + LLM systems (CAR project) using XGBoost + GPT‑4o mini for intelligent auto-response
+🚀 Forward Deployed Engineering — End-to-end delivery, client-facing workflows, production deployment
 
-🛠️ Building explainable AI workflows and lightweight model lifecycle (versioning, retraining, drift checks)
+☁️ Cloud-Native Systems — Serverless AWS architectures, Terraform IaC, CI/CD, observability
 
-📊 Improving observability with CloudWatch dashboards, latency tracking, and structured logs
+🔒 Regulated Environments — 3.5+ years in HIPAA/SOC‑2 with zero security incidents
 
-🚀 Strengthening my portfolio around AI/ML + cloud + end-to-end delivery
+I care about clarity, reliability, and building systems that solve real problems.
 
-🧩 Projects
-🔹 CloudClaim — ML-Powered Fraud Detection Pipeline (Serverless + Explainable AI)
-Built an end-to-end fraud detection workflow using AWS Lambda, SQS, DynamoDB, API Gateway, Terraform, and GitHub Actions.
-Integrated XGBoost + Isolation Forest with SHAP explanations and a reviewer-facing UI.
-Includes CI/CD, drift monitoring, and load testing with 1,000+ synthetic claims.
+🔨 What I'm Building
+CloudClaim — ML-Powered Healthcare Fraud Detection
+AWS Lambda SQS DynamoDB API Gateway XGBoost Isolation Forest SHAP Terraform GitHub Actions
 
-🔹 Contextual Auto-Response (CAR) — Hybrid ML + LLM System
-Real-time context engine using XGBoost, SHAP, and GPT‑4o mini for intelligent message auto-response.
-Processes 33+ device signals with sub‑10s latency and privacy-preserving on-device storage.
+End-to-end fraud detection pipeline — S3 → Lambda → SQS → Lambda → DynamoDB — with XGBoost + Isolation Forest models, SHAP-generated plain-English audit reasons, reviewer-facing UI, CI/CD, drift monitoring, and 1,000+ synthetic claim load tests.
 
-🔹 Portfolio Website — Cloud-Native Personal Site
-Responsive portfolio built with React, Vercel, and serverless APIs, showcasing AI/ML, cloud, and end-to-end engineering work.
+CAR — Contextual Auto-Response (Hybrid ML + LLM)
+Python Flask Kotlin XGBoost SHAP OpenAI GPT-4o mini Android SDK
 
-🛠️ Tech Stack & Tools
-Languages: Python | Java | JavaScript | SQL | Kotlin
-Software Engineering: REST APIs | Microservices | FastAPI | Flask | Spring Boot
-Cloud & Infra: AWS (Lambda, API Gateway, DynamoDB, SQS, S3, IAM, CloudWatch) | Terraform | GitHub Actions | Jenkins
-AI/ML: XGBoost | Isolation Forest | SHAP | scikit-learn | OpenAI API | Pandas | NumPy
-Databases: PostgreSQL | MySQL | MongoDB | Redis | DynamoDB
+Real-time context engine processing 33+ device signals with sub‑10s latency. XGBoost confidence scores trigger selective GPT‑4o mini escalation — maximizing precision while minimizing cost. Privacy-preserving on-device storage.
 
-🧰 Engineering Philosophy
-“Build systems that solve real problems. Make them reliable. Make them explainable.”
+Portfolio — Cloud-Native Personal Site
+React Vercel Serverless APIs
 
-🌱 Currently Exploring
-Applied ML in production
+Responsive portfolio showcasing AI/ML, cloud-native engineering, and end-to-end delivery.
 
-Explainable AI (SHAP)
+🛠️ Tech Stack
+Languages
 
-Cloud-native LLM deployment
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white
 
-Forward deployed engineering patterns
+AI / ML
 
-Intelligent automation systems
+https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white
+https://img.shields.io/badge/SHAP-Explainability-4B8BBE?style=flat-square
+https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
 
-📫 Let's Connect
-🔗 Portfolio: https://harshinikr.vercel.app/  
-🔗 LinkedIn: https://www.linkedin.com/in/harshini-k-r-2173191ab/  
-✉️ Email: hkulanda@asu.edu
+Cloud & DevOps
 
-⭐ “Solve real problems. Ship end-to-end. Build with clarity.”
+https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white
+
+Backend & Databases
+
+https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white
+https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+
+<div align="center">
+
+"Solve real problems. Ship end-to-end. Build with clarity."
+
+<br/>
+
+https://harshinikr.vercel.app/&nbsp;
+https://www.linkedin.com/in/harshini-k-r-2173191ab/&nbsp;
+mailto:hkulanda@asu.edu
+
+</div>
