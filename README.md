@@ -1,89 +1,78 @@
 <h1 align="center">👋 Hi, I'm Harshini K.R.</h1>
 
 <p align="center">
-  <b>Software Engineer · Cloud‑Native Systems · AWS · Backend · ML & AI</b><br>
-  🎓 MS Software Engineering @ ASU · 📍 Phoenix, AZ
+<b>Software Engineer · Applied AI/ML · Cloud-Native Systems · Forward Deployed Engineering</b><br>
+🎓 MS Software Engineering @ ASU · 📍 Phoenix, AZ
 </p>
 
----
+👋 Who I Am
+💡 Software Engineer with 3.5+ years delivering production systems for Fortune 500 clients
+🧠 AI/ML Engineer building fraud detection, explainable AI, and hybrid ML+LLM pipelines
+🚀 Forward Deployed Engineer experienced in end‑to‑end delivery, client-facing workflows, and real-world deployment
+☁️ Skilled in cloud-native architectures, serverless design, and reliable automation
+🎓 Graduate Student @ Arizona State University (GPA 3.9)
 
-## 👋 Who I Am
-☁️ Software Engineer focused on **cloud‑native backend systems**  
-⚙️ AWS & Serverless Engineer building scalable, event‑driven architectures  
-🧠 ML & Automation Enthusiast exploring intelligent backend workflows  
-🎓 Graduate Student @ Arizona State University  
-📍 Based in Phoenix, AZ  
+👩‍💻 About Me
+Engineer focused on building systems that solve real business problems, not just code
 
----
+Experienced in HIPAA/SOC‑2 regulated environments with reliability, security, and compliance
 
-## 👩‍💻 About Me
-- Software Engineer specializing in **cloud‑native, distributed systems**
-- Designed and shipped **serverless pipelines** serving 50K+ users with **99.9% uptime**
-- Experienced with **AWS Lambda, API Gateway, DynamoDB, SQS, S3, IAM**
-- Passionate about **scalable APIs, event‑driven architecture, and ML automation**
-- Strong believer in **clean code, reliability, and zero‑prod‑break culture**
-- Love building systems that combine **backend engineering + cloud + AI**
+Skilled in ML model development, SHAP explainability, drift monitoring, and AWS deployment
 
----
+Strong in client-facing engineering, delivering features end-to-end with clear reasoning and usability
 
-## ⚙️ What I'm Working On
-- 🚀 Building a cloud‑native healthcare claims pipeline (serverless + event‑driven)
-- 🤖 Developing ML‑powered automation tools for workflow optimization
-- 🧩 Exploring LLM‑assisted backend engineering and AI‑driven developer tools
-- 📊 Improving observability with CloudWatch, X‑Ray, and structured logging
-- 🛠️ Enhancing my portfolio and cloud‑native project showcase
+Passionate about AI-driven automation, cloud-native ML, and production-ready systems
 
----
+Love combining software engineering + ML + cloud to build intelligent, scalable workflows
 
-## 🧩 Projects
+⚙️ What I'm Working On
+🔍 CloudClaim — ML-powered fraud detection pipeline with XGBoost, Isolation Forest, SHAP, and a reviewer-facing UI
 
-### 🔹 **CloudClaim — Serverless Healthcare Claims Pipeline**
-Event‑driven architecture using **AWS Lambda, SQS, DynamoDB, API Gateway, Terraform, and GitHub Actions**.  
-Processes **100K+ monthly transactions** with automated retries, monitoring, and HIPAA‑aligned design.  
-Focuses on reliability, scalability, and operational excellence.
+🤖 Hybrid ML + LLM systems (CAR project) using XGBoost + GPT‑4o mini for intelligent auto-response
 
----
+🛠️ Building explainable AI workflows and lightweight model lifecycle (versioning, retraining, drift checks)
 
-### 🔹 **ML‑Driven Automation Tools**
-Built ML pipelines for classification, prediction, and workflow automation using **Python, AWS, and FastAPI**.  
-Designed for real‑time decisioning and backend integration.
+📊 Improving observability with CloudWatch dashboards, latency tracking, and structured logs
 
----
+🚀 Strengthening my portfolio around AI/ML + cloud + end-to-end delivery
 
-### 🔹 **Portfolio Website — Cloud‑Native Personal Site**
-Designed and deployed a modern, responsive portfolio using **React, Vercel, and serverless APIs**.  
-Showcases cloud‑native engineering, projects, and professional experience.
+🧩 Projects
+🔹 CloudClaim — ML-Powered Fraud Detection Pipeline (Serverless + Explainable AI)
+Built an end-to-end fraud detection workflow using AWS Lambda, SQS, DynamoDB, API Gateway, Terraform, and GitHub Actions.
+Integrated XGBoost + Isolation Forest with SHAP explanations and a reviewer-facing UI.
+Includes CI/CD, drift monitoring, and load testing with 1,000+ synthetic claims.
 
----
+🔹 Contextual Auto-Response (CAR) — Hybrid ML + LLM System
+Real-time context engine using XGBoost, SHAP, and GPT‑4o mini for intelligent message auto-response.
+Processes 33+ device signals with sub‑10s latency and privacy-preserving on-device storage.
 
-## 🛠️ Tech Stack & Tools
-**Languages:** Python | JavaScript | TypeScript  
-**Backend:** Node.js | Express | FastAPI  
-**Cloud:** AWS (Lambda, API Gateway, DynamoDB, S3, SQS, IAM, CloudWatch)  
-**Databases:** PostgreSQL | MongoDB | DynamoDB  
-**DevOps:** Docker | GitHub Actions | Terraform  
-**AI/ML:** Scikit‑learn | XGBoost | Pandas | NumPy  
+🔹 Portfolio Website — Cloud-Native Personal Site
+Responsive portfolio built with React, Vercel, and serverless APIs, showcasing AI/ML, cloud, and end-to-end engineering work.
 
----
+🛠️ Tech Stack & Tools
+Languages: Python | Java | JavaScript | SQL | Kotlin
+Software Engineering: REST APIs | Microservices | FastAPI | Flask | Spring Boot
+Cloud & Infra: AWS (Lambda, API Gateway, DynamoDB, SQS, S3, IAM, CloudWatch) | Terraform | GitHub Actions | Jenkins
+AI/ML: XGBoost | Isolation Forest | SHAP | scikit-learn | OpenAI API | Pandas | NumPy
+Databases: PostgreSQL | MySQL | MongoDB | Redis | DynamoDB
 
-## 🧰 Engineering Philosophy
-“Reliability, scalability, and clean code aren’t features — they’re foundations.”
+🧰 Engineering Philosophy
+“Build systems that solve real problems. Make them reliable. Make them explainable.”
 
----
+🌱 Currently Exploring
+Applied ML in production
 
-## 🌱 Currently Exploring
-- Cloud‑native LLM deployment  
-- Distributed systems patterns  
-- Serverless optimization  
-- AI‑assisted backend engineering  
+Explainable AI (SHAP)
 
----
+Cloud-native LLM deployment
 
-## 📫 Let's Connect
+Forward deployed engineering patterns
+
+Intelligent automation systems
+
+📫 Let's Connect
 🔗 Portfolio: https://harshinikr.vercel.app/  
 🔗 LinkedIn: https://www.linkedin.com/in/harshini-k-r-2173191ab/  
-✉️ Email: hkulanda@asu.edu  
+✉️ Email: hkulanda@asu.edu
 
----
-
-⭐ *“Build systems that scale. Ship with confidence. Own your craft.”*
+⭐ “Solve real problems. Ship end-to-end. Build with clarity.”
