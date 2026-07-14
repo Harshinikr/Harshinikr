@@ -11,8 +11,8 @@
 
 <br/>
 
-🌐 https://harshinikr-website.vercel.app/ 
-🔗 https://www.linkedin.com/in/harshini-k-r-2173191ab/   
+🌐 https://harshinikr-website.vercel.app/  
+🔗 https://www.linkedin.com/in/harshini-k-r-2173191ab/  
 ✉️ hkulanda@asu.edu
 
 </div>
